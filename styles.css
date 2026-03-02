@@ -553,7 +553,7 @@ footer .socials a:hover {
   background: linear-gradient(120deg, #0a183d 0%, #1a237e 100%);
   border-radius: 32px;
   margin: 3.5rem auto 0 auto;
-  max-width: 1000px;
+  max-width: 1200px;
   box-shadow: 0 8px 32px 0 rgba(14,165,233,0.18);
   padding: 3.5rem 4vw;
   display: flex;
@@ -693,7 +693,7 @@ footer .socials a:hover {
 .about-experience-section, .about-education-section {
   position: relative;
   margin: 3.5rem auto 0 auto;
-  max-width: 800px;
+  max-width: 1200px;
   padding: 2.5rem 2vw 1.5rem 2vw;
 }
 .timeline {
@@ -777,7 +777,7 @@ footer .socials a:hover {
   background: linear-gradient(120deg, #0a183d 0%, #1a237e 100%);
   border-radius: 32px;
   margin: 3.5rem auto 0 auto;
-  max-width: 900px;
+  max-width: 1200px;
   box-shadow: 0 8px 32px 0 rgba(14,165,233,0.18);
   padding: 3.5rem 4vw;
   display: flex;
@@ -924,7 +924,7 @@ footer .socials a:hover {
   background: linear-gradient(120deg, #223c5a 0%, #1a237e 100%);
   border-radius: 32px;
   margin: 3.5rem auto 0 auto;
-  max-width: 1100px;
+  max-width: 1200px;
   box-shadow: 0 4px 24px 0 rgba(41,182,246,0.08);
   padding: 3.5rem 4vw;
   text-align: center;
@@ -948,7 +948,7 @@ footer .socials a:hover {
   background: linear-gradient(120deg, #1a237e 0%, #283593 100%);
   border-radius: 32px;
   margin: 3.5rem auto 0 auto;
-  max-width: 1100px;
+  max-width: 1200px;
   box-shadow: 0 4px 24px 0 rgba(41,182,246,0.10);
   padding: 3.5rem 4vw;
   text-align: center;
@@ -1025,7 +1025,7 @@ footer .socials a:hover {
   background: linear-gradient(120deg, #223c5a 0%, #1a237e 100%);
   border-radius: 32px;
   margin: 3.5rem auto 0 auto;
-  max-width: 1100px;
+  max-width: 1200px;
   box-shadow: 0 4px 24px 0 rgba(41,182,246,0.08);
   padding: 3.5rem 4vw;
   text-align: center;
@@ -1049,7 +1049,7 @@ footer .socials a:hover {
   background: linear-gradient(120deg, #1a237e 0%, #283593 100%);
   border-radius: 32px;
   margin: 3.5rem auto 0 auto;
-  max-width: 900px;
+  max-width: 1200px;
   box-shadow: 0 4px 24px 0 rgba(41,182,246,0.10);
   padding: 2.5rem 4vw;
   text-align: center;
@@ -1093,7 +1093,7 @@ footer .socials a:hover {
   background: linear-gradient(120deg, #223c5a 0%, #1a237e 100%);
   border-radius: 32px;
   margin: 3.5rem auto 0 auto;
-  max-width: 1100px;
+  max-width: 1200px;
   box-shadow: 0 4px 24px 0 rgba(41,182,246,0.08);
   padding: 3.5rem 4vw;
   text-align: center;
